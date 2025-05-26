@@ -6,4 +6,7 @@
 *salt (2)
 
 ##Instructions
-* Peel the Avacados 
+<<<<<<< HEAD
+* Peel the Avacados and put them into a bo 
+
+
